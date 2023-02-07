@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name": "John doe",
+        "section":"B",
+        "city":"London"
+    },
+    {
+        "id":2,
+        "name": "Firoz Hasan",
+        "section":"d",
+        "city":"Dhaka"
+    },
+    {
+        "id":3,
+        "name": "Joynob khatun",
+        "section":"c",
+        "city":"Pabna"
+    },
+    {
+        "id":4,
+        "name": "Rasel",
+        "section":"a",
+        "city":"Bangura"
+    }
+    
+]
